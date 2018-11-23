@@ -13,3 +13,9 @@ yarn install
 ```
 yarn start
 ```
+
+### Deployment
+
+```
+git push heroku master
+```
